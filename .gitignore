@@ -139,7 +139,7 @@ __azurite_db*__.json
 ._DS_Store
 
 # dagster configuration
-.storage/
+storage/
 .telemetry/
 history/
 schedules/
