@@ -1,0 +1,5 @@
+load_from:
+  - python_file:
+      relative_path: /workspaces/app/highest_protein_nabisco_cereal.py
+  - python_file:
+      relative_path: /workspaces/app/check_file_job.py
