@@ -4,7 +4,7 @@ sudo chgrp vscode /workspaces/app/.venv
 sudo chown vscode /workspaces/app/.venv
 
 git config --global --add safe.directory /workspaces/app
-git config --global core.autocrlf false
+git config --global core.autocrlf true
 
 sudo apt-get update
 sudo apt-get install vim -y
