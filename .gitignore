@@ -137,6 +137,7 @@ __azurite_db*__.json
 # macOS operating system file
 .DS_Store
 ._DS_Store
+__MACOSX/
 
 # dagster configuration
 storage/
