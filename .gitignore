@@ -140,7 +140,9 @@ __azurite_db*__.json
 __MACOSX/
 
 # dagster configuration
-storage/
 .telemetry/
+.logs_queue/
 history/
+logs/
 schedules/
+storage/
