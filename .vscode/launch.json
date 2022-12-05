@@ -1,18 +1,18 @@
 {
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "Attach to Dagit",
-      "type": "python",
-      "request": "launch",
-      "program": "${workspaceFolder}/.venv/bin/dagit",
-      "args": [
-        "-h",
-        "0.0.0.0",
-        "-p",
-        "3000"
-      ],
-      "preLaunchTask": "pip install"
-    }
-  ]
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Dagit",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/.venv/bin/dagit",
+            "args": [
+                "-h",
+                "0.0.0.0",
+                "-p",
+                "3000"
+            ],
+            "preLaunchTask": "pip install"
+        }
+    ]
 }
